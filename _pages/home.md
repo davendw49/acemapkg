@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "AceKG X Acemap"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Acemap at IIOT, SJTU."
 sitemap: false
 permalink: /
 ---
